@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
      public void OnClickButton {
-     item.gerItemsId() == R.id.Perpustakaan)
+     item.getItemsId() == R.id.Perpustakaan)
      startAcity(new Intens(this, Perpus.class));
 }
 }
